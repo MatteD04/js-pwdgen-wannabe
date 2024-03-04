@@ -1,0 +1,17 @@
+*{
+    background-color: black;
+}
+
+body{
+    text-align: center;
+}
+
+#message{
+    font-size: 40px;
+    color: white;
+}
+.ms-user{
+    color: white;
+    font-size: 100px;
+    margin-top: 50px;
+}
